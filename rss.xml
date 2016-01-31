@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Goltangoo]]></title>
         <description><![CDATA[Goltangoo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rectangoo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 14:40:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 31 Jan 2016 14:40:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rectangoo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>hi</p>]]></description>
+            <link>https://thegrid.ai/rectangoo/3d52093f-afe1-46af-8667-2d72adbbcd5f/index.html</link>
+            <guid isPermaLink="false">3d52093f-afe1-46af-8667-2d72adbbcd5f</guid>
+            <pubDate>Sun, 31 Jan 2016 14:40:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/81779c76-db73-43e9-a7eb-9b9de1dd5782.jpg">]]></description>
-            <link>undefined209449b8-cfcf-4d0d-878b-5226f11240a9/index.html</link>
+            <link>https://thegrid.ai/rectangoo/209449b8-cfcf-4d0d-878b-5226f11240a9/index.html</link>
             <guid isPermaLink="false">209449b8-cfcf-4d0d-878b-5226f11240a9</guid>
             <pubDate>Sun, 31 Jan 2016 14:39:31 GMT</pubDate>
         </item>
